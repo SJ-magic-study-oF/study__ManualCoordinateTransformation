@@ -16,7 +16,7 @@ ofVboを使用して描画を高速化したい場合、ofTranslate()などで�
 この時、vbo_Verts[]に格納する値は、originalの座標系での値を格納する必要があるので、
 これを実現するために、manualでの座標変換が必要である。
 
-![image](./screen.png)
+![image](./image.png)
 
 
 ##note
